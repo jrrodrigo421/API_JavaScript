@@ -1,0 +1,12 @@
+body {
+  background-color: cornflowerblue;
+}
+#resultado {
+  padding: 10px;
+  margin-top: 10px;
+  max-width: 350px;
+  background-color: blueviolet;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  box-shadow: 2px 2px blueviolet;
+}
