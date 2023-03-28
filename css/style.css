@@ -1,12 +1,19 @@
 body {
-  background-color: cornflowerblue;
+  background-color: rgb(186, 198, 52);
+  text-align: center;
+  padding-bottom: 20px;
+}
+label{
+  background: center;
+  padding-top: 10px;
 }
 #resultado {
-  padding: 10px;
-  margin-top: 10px;
-  max-width: 350px;
-  background-color: blueviolet;
+  text-align: center;
+  background-position: center;
+  padding-top: 20px;
+  
+  background-color: rgb(146, 142, 17);
   border: 1px solid gainsboro;
   border-radius: 10px;
-  box-shadow: 2px 2px blueviolet;
+  box-shadow: 2px 2px rgb(98, 96, 5);
 }
